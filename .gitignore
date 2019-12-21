@@ -5,3 +5,4 @@ Makefile
 /src/.deps/
 /src/dbus/.deps/
 /stamp-h1
+/.idea/
